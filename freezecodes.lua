@@ -1,0 +1,4 @@
+-- 0x000 = Unset (0000)
+-- 0xDDD = Disabled (3549)
+-- 0xEAD = Enable After Death (3757)
+-- 0xEEE = Enabled (3822)
